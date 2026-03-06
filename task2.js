@@ -1,4 +1,4 @@
-// Task 2: Fetching data from external API
+// Task 2
 async function fetchUserData() {
   const url = 'https://jsonplaceholder.typicode.com/users/1';
 try {
