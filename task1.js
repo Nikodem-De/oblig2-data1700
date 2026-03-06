@@ -1,4 +1,4 @@
-// Task 1: Converting HTML data to JS
+// Task 1
 const student = {
   studentId: "S-123456",
   name: {
